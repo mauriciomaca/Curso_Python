@@ -3,7 +3,6 @@
 # Temas: Condicionales.
 #        Evaluar el logaritmo en base 10 en su dominio.
 #        f-string, imprimir resultado con 5 decimales.
-
 from math import log10
 
 

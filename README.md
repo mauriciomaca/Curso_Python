@@ -7,4 +7,7 @@ Ejemplos básicos de programación con python.
 * [main_modi.py](https://github.com/mauriciomaca/curso_python/blob/master/main_modi.py): Lo esencial del scrip main.py y lo que se puede modificar.
 * [oper_real.py](https://github.com/mauriciomaca/curso_python/blob/master/oper_real.py): Entrada y salida de datos. Este **modelo** se utilizará en todos los programas.
 
+### Ejemplo de condicionales.
+* [log_dominio.py](https://github.com/mauriciomaca/curso_python/blob/master/log_dominio.py): Dominio de una función.
+
 
